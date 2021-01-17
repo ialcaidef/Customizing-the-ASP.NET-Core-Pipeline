@@ -13,4 +13,4 @@ After completing this lab, you will be able to:
 - Create a cache mechanism and action filters.
 - Add middleware to inform the client through header response.
 
-![20487D_Images](https://github.com/ialcaidef/Customizing-the-ASP.NET-Core-Pipeline/tree/master/Images)
+![20487D_Images](https://github.com/ialcaidef/Customizing-the-ASP.NET-Core-Pipeline/tree/master/Images/01.png)
